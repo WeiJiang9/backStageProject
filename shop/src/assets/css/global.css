@@ -1,0 +1,27 @@
+html,body,#app{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  min-width: 500px;
+}
+.el-breadcrumb {
+  margin-bottom: 15px;
+}
+.el-steps{
+  margin-top: 15px;
+}
+.el-step__title{
+  font-size: 13px;
+}
+.el-form-item__label{
+  margin-left: 30px;
+}
+.el-checkbox{
+  margin: 0 15px;
+}
+.ql-editor{
+  min-height: 300px;
+}
+.el-timeline-item__wrapper{
+  text-align-last: left;
+}
